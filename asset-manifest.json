@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Keerthana-portfolio/static/css/main.5f211714.css",
+    "main.js": "/Keerthana-portfolio/static/js/main.a34689ab.js",
+    "static/media/RESUME.jpeg.jpg": "/Keerthana-portfolio/static/media/RESUME.jpeg.76a1202284216f1988ca.jpg",
+    "static/media/keer.jpeg.jpg": "/Keerthana-portfolio/static/media/keer.jpeg.cbce029a2e78839defb6.jpg",
+    "static/media/qr code.png": "/Keerthana-portfolio/static/media/qr code.ae86186e4f766ce744ab.png",
+    "index.html": "/Keerthana-portfolio/index.html",
+    "main.5f211714.css.map": "/Keerthana-portfolio/static/css/main.5f211714.css.map",
+    "main.a34689ab.js.map": "/Keerthana-portfolio/static/js/main.a34689ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f211714.css",
+    "static/js/main.a34689ab.js"
+  ]
+}
